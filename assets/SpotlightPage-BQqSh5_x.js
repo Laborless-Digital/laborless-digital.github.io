@@ -1,0 +1,1 @@
+import{b as t,j as a}from"./ui-BK9Y8ilK.js";import{S as s}from"./SocialSidebar-C42Oy1I9.js";function e(){return t.useState(null),a.jsx("div",{className:"spotlight-page",children:a.jsx(s,{currentPage:"spotlight",onNavigate:()=>{},onSettings:()=>{}})})}export{e as default};
