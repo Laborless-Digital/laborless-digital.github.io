@@ -1,0 +1,1 @@
+import{j as e}from"./ui-k4ZE2xbs.js";function s(){return e.jsx("section",{className:"sdp__section",children:e.jsx("div",{className:"sdp__hero",children:e.jsx("h2",{children:"Development"})})})}export{s as default};

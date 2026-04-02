@@ -1,0 +1,1 @@
+import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"sgp__section",children:s.jsx("div",{className:"sgp__hero",children:s.jsx("h2",{children:"Graphic Design"})})})}export{e as default};

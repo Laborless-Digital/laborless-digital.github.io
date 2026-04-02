@@ -1,0 +1,1 @@
+import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"scsp__section",children:s.jsx("div",{className:"scsp__hero",children:s.jsx("h2",{children:"Consulting Services"})})})}export{e as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"ssp__section",children:s.jsx("div",{className:"ssp__hero",children:s.jsx("h2",{children:"Social Media"})})})}export{e as default};
