@@ -1,1 +1,0 @@
-import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"scmp__section",children:s.jsx("div",{className:"scmp__hero",children:s.jsx("h2",{children:"Campaign Management"})})})}export{e as default};

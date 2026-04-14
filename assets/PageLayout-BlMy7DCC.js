@@ -1,1 +1,0 @@
-import{j as o}from"./ui-k4ZE2xbs.js";import{u as s}from"./useScrollToTop-B-zHROBx.js";import e from"./Footer-Ck7dT0Wh.js";function a({children:a,onNavigate:r,className:i,style:t,footerWrapClass:l}){s();const n=o.jsx(e,{onNavigate:r});return o.jsxs("div",{className:["page",i].filter(Boolean).join(" "),style:t,children:[a,l?o.jsx("div",{className:l,children:n}):n]})}export{a as P};

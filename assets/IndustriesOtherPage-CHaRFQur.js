@@ -1,0 +1,1 @@
+import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"i-other__section",children:s.jsx("div",{className:"i-other__hero",children:s.jsxs("h1",{children:["Industries ",s.jsx("span",{className:"i-other__accent",children:"Other Industries"})]})})})}export{e as default};

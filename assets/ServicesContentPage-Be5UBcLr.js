@@ -1,1 +1,0 @@
-import{j as e}from"./ui-k4ZE2xbs.js";function s(){return e.jsx("section",{className:"scep__section",children:e.jsx("div",{className:"scep__hero",children:e.jsx("h2",{children:"Content Editing"})})})}export{s as default};

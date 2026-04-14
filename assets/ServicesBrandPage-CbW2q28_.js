@@ -1,1 +1,0 @@
-import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"sbp__section",children:s.jsx("div",{className:"sbp__hero",children:s.jsx("h2",{children:"Brand Marketing"})})})}export{e as default};

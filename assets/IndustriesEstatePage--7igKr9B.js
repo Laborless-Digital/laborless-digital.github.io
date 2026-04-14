@@ -1,0 +1,1 @@
+import{j as e}from"./ui-k4ZE2xbs.js";function s(){return e.jsx("section",{className:"i-estate__section",children:e.jsx("div",{className:"i-estate__hero",children:e.jsxs("h1",{children:["Industries ",e.jsx("span",{className:"i-estate__accent",children:"Real Estate"})]})})})}export{s as default};

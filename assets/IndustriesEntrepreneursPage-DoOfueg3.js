@@ -1,0 +1,1 @@
+import{j as e}from"./ui-k4ZE2xbs.js";function r(){return e.jsx("section",{className:"i-entrepreneurs__section",children:e.jsx("div",{className:"i-entrepreneurs__hero",children:e.jsxs("h1",{children:["Industries"," ",e.jsx("span",{className:"i-entrepreneurs__accent",children:"Entrepreneurs"})]})})})}export{r as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./ui-k4ZE2xbs.js";function e(){return s.jsx("section",{className:"i-food__section",children:s.jsx("div",{className:"i-food__hero",children:s.jsxs("h1",{children:["Industries ",s.jsx("span",{className:"i-food__accent",children:"Food & Beverage"})]})})})}export{e as default};
