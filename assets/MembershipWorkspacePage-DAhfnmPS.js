@@ -1,1 +1,0 @@
-import{j as e}from"./ui-k4ZE2xbs.js";function s(){return e.jsx("section",{className:"workspace__section",children:e.jsx("div",{className:"workspace__hero",children:e.jsx("h2",{children:"Membership Workspace"})})})}export{s as default};
