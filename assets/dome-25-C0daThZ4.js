@@ -1,0 +1,1 @@
+const e=Object.freeze(Object.defineProperty({__proto__:null,default:"/assets/dome-18-BKGnuRZY.webp"},Symbol.toStringTag,{value:"Module"})),t=Object.freeze(Object.defineProperty({__proto__:null,default:"/assets/dome-25-CFFydcik.webp"},Symbol.toStringTag,{value:"Module"}));export{t as _,e as a};
