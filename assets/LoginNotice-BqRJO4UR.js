@@ -1,0 +1,1 @@
+import{j as e}from"./ui-k4ZE2xbs.js";import{E as t}from"./EmptyPlaceholder-DNSHCamf.js";function i({title:i="Welcome to Our Community",subtitle:s="Please login to see the full content",className:l,description:o,children:r,...n}){return e.jsx(t,{title:i,subtitle:s,description:o,className:l,...n,children:r})}export{i as L};

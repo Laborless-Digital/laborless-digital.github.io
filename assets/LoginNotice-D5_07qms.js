@@ -1,1 +1,0 @@
-import{j as e}from"./ui-BoGhZzoU.js";import{E as t}from"./EmptyPlaceholder-5uDkGBy6.js";function i({title:i="Welcome to Our Community",subtitle:s="Please login to see the full content",className:l,description:o,children:r,...n}){return e.jsx(t,{title:i,subtitle:s,description:o,className:l,...n,children:r})}export{i as L};
